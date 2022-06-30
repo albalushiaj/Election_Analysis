@@ -15,7 +15,7 @@ Data Source: election_results.csv
 Software: Python 3.7 (64-bit), Visual Studio Code, 1.38.1
 
 ## Summary
-The analysis of the elction show that:
+The analysis of the election show that:
 
 
 ![image](https://user-images.githubusercontent.com/106709942/176745346-69a95b37-7dd0-4588-92a4-e17046d46553.png)
