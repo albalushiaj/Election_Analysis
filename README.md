@@ -36,7 +36,7 @@ The analysis of the election show that:
 
 ![image](https://user-images.githubusercontent.com/106709942/176752644-d4dc09e8-c139-493d-924f-15a64c11e179.png)
 
-     Here the script was edited to fit the desired analysis from analyzing the candidate data to county data.
+  - Here the script was edited to fit the desired analysis from analyzing the candidate data to county data.
 
 2. By an analyst changing a few variables, the path to the data file can be changed to look at any data. If the data analysis is expanded from one county to two counties then the data can be modified to add on the additional fields and produce the results needed. In addition, the format of the printing output statements can be changed to be revelant to any upcoming election.
 
